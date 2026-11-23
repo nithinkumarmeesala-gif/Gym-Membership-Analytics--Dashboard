@@ -1,0 +1,21 @@
+Member_ID,Age_Group,Gender,Membership_Type,Monthly_Fee (€),Personal_Training,Satisfaction_Rate (%)
+1,18-24,Male,Basic,30,Yes,65
+2,25-34,Female,Standard,45,No,70
+3,35+,Male,Premium,70,Yes,85
+4,25-34,Female,Standard,45,No,75
+5,35+,Male,Premium,70,Yes,90
+6,18-24,Male,Basic,30,Yes,65
+7,25-34,Female,Standard,45,No,70
+8,35+,Male,Premium,70,Yes,85
+9,25-34,Female,Standard,45,No,75
+10,35+,Male,Premium,70,Yes,90
+11,18-24,Male,Basic,30,Yes,65
+12,25-34,Female,Standard,45,No,70
+13,35+,Male,Premium,70,Yes,85
+14,25-34,Female,Standard,45,No,75
+15,35+,Male,Premium,70,Yes,90
+16,18-24,Male,Basic,30,Yes,65
+17,25-34,Female,Standard,45,No,70
+18,35+,Male,Premium,70,Yes,85
+19,25-34,Female,Standard,45,No,75
+20,35+,Male,Premium,70,Yes,90
