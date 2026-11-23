@@ -1,4 +1,4 @@
-\# 🏋️ Gym Membership Analytics Dashboard
+# 🏋️ Gym Membership Analytics Dashboard
 
 ## 📊 Project Overview
 Interactive Power BI dashboard analyzing gym membership revenue, satisfaction, and engagement.
@@ -64,6 +64,6 @@ Dashboard:
 
 
 ## 🧑‍💻 Author
-Gaddam Nithin Reddy  
+Nithin Kumar Meesala  
 Dublin, Ireland
 
