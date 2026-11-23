@@ -22,5 +22,5 @@ gym-membership-analytics-dashboard/
 └── README.md
 
 ## 🧑‍💻 Author
-Gaddam Nithin Reddy  
+Nithin Kumar Meesala  
 Dublin, Ireland
